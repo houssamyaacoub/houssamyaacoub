@@ -22,9 +22,7 @@ Engineering Python scripts that leverage LLMs and the Replicate API to automate 
 ### Basketball Performance Forecasting System
 Collaborated in a team of four to develop a synergy program using abstract data structures and Python libraries like networkx for player performance analysis.
 
-## Education & Recognition
-
-## Education & Recognition
+## Education
 - **University of Toronto:** BSc, Computer Science Specialist.
 - **Awards:** Dean's List (2024-2025).
 - **Coursework:** Software Design, Theory of Computation, Systems Programming, Data Structures.
