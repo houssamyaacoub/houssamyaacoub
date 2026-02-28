@@ -9,7 +9,7 @@ I am currently focusing on software design and systems programming. My work cent
 - **Technologies:** Git, Unix/Linux CLI, RESTful APIs, Supabase, Tailwind CSS, Cloudflare, Vim.
 - **Engineering:** Clean Architecture, JUnit 5 (TDD), Data Structures, SDLC.
 
-## Active Projects
+## Projects
 ### Full-Stack Student Task Organizer
 Architecting an academic management platform using React and Supabase. Implementing Row Level Security (RLS) for data privacy and deploying via Cloudflare CI/CD pipelines.
 
