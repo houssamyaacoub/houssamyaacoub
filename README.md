@@ -29,4 +29,4 @@ Collaborated in a team of four to develop a synergy program using abstract data 
 
 ## Contact
 - Email: h.yaacoub@mail.utoronto.ca
-- LinkedIn: [[Profile Link]](http://www.linkedin.com/in/houssam-yaacoub-767bb4370)
+- LinkedIn: [http://www.linkedin.com/in/houssam-yaacoub-767bb4370](http://www.linkedin.com/in/houssam-yaacoub-767bb4370)
